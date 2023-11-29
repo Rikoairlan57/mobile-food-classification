@@ -3,11 +3,16 @@ ayam_pop
 bakso_kuah
 cumi_tepung
 daging_rendang
+gado_gado
 gulai_ikan
 gulai_tumbusu
+mie_goreng
+mie_kuah
 nasi_goreng
 opor_ayam
+pempek
 sate_bakar
+sayur_asam
 somay
 tahu_goreng
 telur_balado
